@@ -64,6 +64,7 @@
         display: block !important;
     }
     .offcanvas{
+	     width: 80% !important;
         overflow-y: scroll;
     }
     .home h1{
